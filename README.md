@@ -1,4 +1,4 @@
-### Hi there 👋
+### Supported IC：IP5306 and IP5307
 
 <!--
 **YaoyaoStudio/YaoyaoStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
